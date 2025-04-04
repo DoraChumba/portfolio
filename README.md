@@ -4,7 +4,7 @@
 
 <h1>🌍 Live Demo</h1>
 <p>View Portfolio </p>
-    <pre><code>git clone https://github.com/DoraChumba/portfolio.git</code></pre>
+    <pre><code>https://dorachumba.github.io/portfolio/</code></pre>
 
 <hr>
 
